@@ -3,6 +3,10 @@
 //EXEMPLO DE UTILIZAÇÃO DA CLASSE PILHA
 //converte de decimal para binário
 
+//PARA COMPILAR no bash, navegue até a pasta com os arquivos:
+//g++ main.cpp Pilha.cpp -o pilhaSimples
+//.\pilhaSimples.exe
+
 using namespace std;
 
 int main(void)
